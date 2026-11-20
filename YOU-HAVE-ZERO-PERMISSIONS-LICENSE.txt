@@ -1,0 +1,31 @@
+         ---- YOU HAVE ZERO PERMISSIONS "LICENSE" -----
+
+This document serves as a reminder that property
+— and therefore software and software code — grants no rights by default.
+Only a written license file from the owner can provide permissions. Without it,
+no rights exist for you.
+
+Created entirely by myself from the very first second, this software (like all my works)
+is proprietary and protected by copyright law.
+All rights reserved.
+Project exclusive author and exclusive owner: Marco Scherzer
+
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, reverse engineer, or sell this software, in whole or in part.
+
+No exceptions are granted. No rights are provided.
+Any action is strictly prohibited.
+
+Please also note the information in license files of used libraries provided in a subfolder of my work.
+These subfolder can be not existing or empty if I used no libraries.
+Please especially note that the licenses of any libraries I use apply strictly, exclusively, and only to those libraries.
+They are never infective, never extend to my software, and never grant any rights of any kind in connection with my work.
+
+
+   The Owner
+
+Marco Scherzer
+
+
+** This license text is licensed under the YOU-HAVE-ZERO-PERMISSIONS-LICENSE_GENERIC. **
